@@ -59,7 +59,7 @@ basic.showIcon(IconNames.StickFigure)
   
 - Click `Advanced`. 
 
-- From the `Arrays`{:class="microbitarrays"} menu, drag the `set [text list]`{:class="microbitarrays"} block into the code editor. 
+- From the `Arrays`{:class="microbitarrays"} menu, drag the `set [text list]`{:class="microbitvariables"} block into the code editor. 
 
 - Place it in the `on start`{:class="microbitbasic"} block under the icon.
 
