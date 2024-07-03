@@ -24,7 +24,7 @@ There is also a [downloadable version of the MakeCode editor](https://makecode.m
 
 [[[makecode-tour]]]
 
-### Create your project
+### Create a new project
 
 --- task ---
 
@@ -34,11 +34,7 @@ Click on the **New Project** button.
 
 --- /task ---
 
---- task ---
-
 ### Name your project 
-
---- /task ---
 
 --- task ---
 
