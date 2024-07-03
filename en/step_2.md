@@ -1,23 +1,87 @@
-## Step title
+## Add your teams/players
 
-Add an introductory sentence. What will learners achieve by the end of this step?
+Choose two or more teams or players that have a big game soon.
+
+### Open MakeCode
 
 --- task ---
 
-If working **online**, open the [starter project](https://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
- 
-If working **offline**, open the project [starter file](https://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
+Open the MakeCode editor at [makecode.microbit.org](https://makecode.microbit.org){:target="_blank"}.
 
-You should see...
- 
-![starter project](images/starter_project.png)
+--- /task ---
+
+--- collapse ---
+
+---
+title: Offline version of the editor
+---
+
+There is also a [downloadable version of the MakeCode editor](https://makecode.microbit.org/offline-app){:target="_blank"}.
+
+--- /collapse ---
+
+### First micro:bit project?
+
+[[[makecode-tour]]]
+
+### Create your project
+
+--- task ---
+
+Click on the **New Project** button.
+
+<img src="images/new-project-button.png" alt="The New Project button inside MakeCode." width="250"/>
 
 --- /task ---
 
 --- task ---
 
-Step content...
+### Name your project 
 
 --- /task ---
 
---- save ---
+--- task ---
+
+- From the `Basic`{:class="microbitbasic"} menu, drag the `show icon`{:class="microbitbasic"} block into the code editor. 
+  
+- Place it inside the  `on start`{:class="microbitbasic"} block. 
+
+- Select the stick figure icon to show when the micro:bit is ready.
+
+```microbit
+basic.showIcon(IconNames.StickFigure)
+```
+--- /task ---
+
+### Add your teams/players
+
+--- task ---
+  
+- Click `Advanced`. 
+
+- From the `Arrays`{:class="microbitarrays"} menu, drag the `set [text list]`{:class="microbitarrays"} block into the code editor. 
+
+- Place it in the `on start`{:class="microbitbasic"} block under the icon.
+
+```microbit
+basic.showIcon(IconNames.StickFigure)
+let text_list = ["a", "b", "c"]
+```
+
+--- /task ---
+
+--- task ---
+
+Replace the items `a`, `b`, `c` with the names of your teams/players. 
+(We have used `Team A` and `Team B` in the example - we're not taking sides!)
+
+**Tip**: If you only need two, you can delete the last one in the array by pressing the `-` symbol. 
+
+If need more, you can add one to the end of the array by pressing the `+` symbol. 
+
+```microbit
+basic.showIcon(IconNames.StickFigure)
+let text_list = ["Team A", "Team B"]
+```
+
+--- /task ---
