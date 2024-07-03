@@ -42,6 +42,7 @@ input.onButtonPressed(Button.A, function () {
     basic.clearScreen()
     basic.showString("" + (text_list._pickRandom()))
 })
+let text_list = ["Team A", "Team B"]
 ```
 --- /task ---
 
