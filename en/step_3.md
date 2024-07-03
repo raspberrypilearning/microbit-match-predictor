@@ -70,12 +70,12 @@ You have your winner!
 Here are some more examples of people having fun with this project!
 
 <html>
-<video width="480" height="640" controls>
+<video width="540" height="960" controls>
 <source src="images/predict1.mp4" type="video/mp4" alt="Someone using their micro:bit to predict the winner of a football tournament">
 Your browser does not support the video tag.
 </video>
 
-<video width="480" height="640" controls>
+<video width="540" height="960" controls>
 <source src="images/predict2.mp4" type="video/mp4" alt="Someone using their micro:bit to predict the winner of a tennis tournament">
 Your browser does not support the video tag.
 </video>
