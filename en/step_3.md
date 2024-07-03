@@ -13,7 +13,10 @@ Use randomness to predict an outcome!
 - From the `Basic`{:class="microbitbasic"} menu, drag the `clear screen`{:class="microbitbasic"} block into the code editor.
 - Place it inside the `on button [A]`{:class="microbitinput"} block.
  
+--- /task ---
+
 --- task ---
+
 - From the `Basic`{:class="microbitbasic"} menu, drag the `show string`{:class="microbitbasic"} block into the code editor.
 
 - Place it inside the `on button [A]`{:class="microbitinput"} block, under the `clear screen`{:class="microbitbasic"} block
