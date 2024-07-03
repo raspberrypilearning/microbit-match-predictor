@@ -34,7 +34,7 @@ Click on the **New Project** button.
 
 --- /task ---
 
-### Name your project 
+### Name your project
 
 --- task ---
 
