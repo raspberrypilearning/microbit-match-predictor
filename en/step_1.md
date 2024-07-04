@@ -14,7 +14,7 @@ title: What you will need
 
 - Access to this link
 [https://makecode.microbit.org](https://makecode.microbit.org)
-- A micro:bit (V2 or V2)
+- A micro:bit (V1 or V2)
 - USB cable
 
 --- /collapse ---
