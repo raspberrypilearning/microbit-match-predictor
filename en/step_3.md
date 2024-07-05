@@ -4,14 +4,14 @@ Use randomness to predict an outcome!
 
 --- task ---
 
-- From the `Input`{:class="microbitinput"} menu, drag the `on button [A]`{:class="microbitinput"} block to the code editor panel.
+- From the `Input`{:class="microbitinput"} menu, drag the `on button [A] pressed`{:class="microbitinput"} block to the code editor panel.
 
 --- /task ---
 
 --- task ---
 
 - From the `Basic`{:class="microbitbasic"} menu, drag the `clear screen`{:class="microbitbasic"} block into the code editor.
-- Place it inside the `on button [A]`{:class="microbitinput"} block.
+- Place it inside the `on button [A] pressed`{:class="microbitinput"} block.
  
 --- /task ---
 
@@ -19,7 +19,7 @@ Use randomness to predict an outcome!
 
 - From the `Basic`{:class="microbitbasic"} menu, drag the `show string`{:class="microbitbasic"} block into the code editor.
 
-- Place it inside the `on button [A]`{:class="microbitinput"} block, under the `clear screen`{:class="microbitbasic"} block
+- Place it inside the `on button [A] pressed`{:class="microbitinput"} block, under the `clear screen`{:class="microbitbasic"} block
   
 ```microbit
 input.onButtonPressed(Button.A, function () {
@@ -49,6 +49,16 @@ text_list = ["Team A", "Team B"]
 ```
 --- /task ---
 
+### Test in the emulator
+
+--- task ---
+
+- Wait for the stick figure to show and then press button A.
+
+- Check one of your teams/players displays.
+
+--- /task ---
+
 --- task ---
 
 Download your program onto your micro:bit!
@@ -57,11 +67,11 @@ Download your program onto your micro:bit!
 
 [[[download-to-microbit]]]
 
-### Test your program
+### Test on your micro:bit
 
 --- task ---
 
-Wait for the stick figure to show and then press button A.
+- Wait for the stick figure to show and then press button A.
 
 You have your winner!
 

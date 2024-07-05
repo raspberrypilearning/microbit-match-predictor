@@ -20,10 +20,6 @@ There is also a [downloadable version of the MakeCode editor](https://makecode.m
 
 --- /collapse ---
 
-### First micro:bit project?
-
-[[[makecode-tour]]]
-
 ### Create a new project
 
 --- task ---
@@ -35,6 +31,14 @@ Click on the **New Project** button.
 --- /task ---
 
 ### Name your project
+
+--- task ---
+
+Give your new project the name `match predictor` and click **Create**.
+
+--- /task --- 
+
+### Show an icon
 
 --- task ---
 
