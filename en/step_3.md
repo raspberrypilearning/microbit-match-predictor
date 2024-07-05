@@ -66,9 +66,9 @@ text_list = ["Team A", "Team B"]
 
 --- /task ---
 
---- task ---
-
 ### Download
+
+--- task ---
 
 Download your program onto your micro:bit!
 
@@ -85,4 +85,3 @@ Download your program onto your micro:bit!
 You have your winner!
 
 --- /task ---
-

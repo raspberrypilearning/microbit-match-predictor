@@ -1,6 +1,6 @@
 ## What you will make
 
-Use you micro:bit to predict the winner of a sports competition!
+Use your micro:bit to predict the winner of a sports competition!
 
 <video width="960" height="540" controls>
   <source src="images/euros.mp4" type="video/mp4" alt="Someone uses a micro:bit to predict the winner of a football tournament">
