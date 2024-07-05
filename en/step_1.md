@@ -2,8 +2,8 @@
 
 Use you micro:bit to predict the winner of a sports competition!
 
-<video width="540" height="960" controls>
-  <source src="images/step1.mp4" type="video/mp4" alt="Someone uses a micro:bit to predict the winner of a football tournament">
+<video width="960" height="540" controls>
+  <source src="images/euros.mp4" type="video/mp4" alt="Someone uses a micro:bit to predict the winner of a football tournament">
 Your browser does not support the video tag.
 </video>
 

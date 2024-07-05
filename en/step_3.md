@@ -1,6 +1,13 @@
 ## Predict the winner
 
-Use randomness to predict an outcome!
+### Video of this step
+
+<video width="960" height="540" controls>
+  <source src="images/part2.mp4" type="video/mp4" alt="A video walkthrough of this step">
+Your browser does not support the video tag.
+</video>
+
+### Add a button block
 
 --- task ---
 
@@ -30,9 +37,9 @@ input.onButtonPressed(Button.A, function () {
 
 --- /task ---
 
---- task ---
+### Use randomness!
 
-- Click `Advanced`. 
+--- task ---
 
 - From the `Arrays`{:class="microbitarrays"} menu, drag the `get random value from [list]`{:class="microbitarrays"} block into the code editor. 
 Change `list`{:class="microbitvariables"} to `text list`{:class="microbitvariables"}.

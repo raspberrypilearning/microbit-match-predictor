@@ -1,6 +1,11 @@
 ## Add your teams/players
 
-Choose two or more teams or players that have a big game soon.
+### Video of this step
+
+<video width="960" height="540" controls>
+  <source src="images/part1.mp4" type="video/mp4" alt="A video walkthrough of this step">
+Your browser does not support the video tag.
+</video>
 
 ### Open MakeCode
 
@@ -54,6 +59,8 @@ basic.showIcon(IconNames.StickFigure)
 --- /task ---
 
 ### Add your teams/players
+
+Choose two or more teams or players that have a big game soon.
 
 --- task ---
   
