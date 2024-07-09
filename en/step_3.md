@@ -26,7 +26,7 @@ Your browser does not support the video tag.
 
 - From the `Basic`{:class="microbitbasic"} menu, drag the `show string`{:class="microbitbasic"} block into the code editor.
 
-- Place it inside the `on button [A] pressed`{:class="microbitinput"} block, under the `clear screen`{:class="microbitbasic"} block
+- Place it inside the `on button [A] pressed`{:class="microbitinput"} block, under the `clear screen`{:class="microbitbasic"} block.
   
 ```microbit
 input.onButtonPressed(Button.A, function () {
