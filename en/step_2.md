@@ -80,7 +80,7 @@ let text_list = ["a", "b", "c"]
 --- task ---
 
 Replace the items `a`, `b`, `c` with the names of your teams/players. 
-(We have used `Team A` and `Team B` in the example - we're not taking sides!)
+(We have used `Team A` and `Team B` in the example — we're not taking sides!)
 
 **Tip**: If you only need two, you can delete the last one in the array by pressing the `-` symbol. 
 
