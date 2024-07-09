@@ -60,7 +60,7 @@ basic.showIcon(IconNames.StickFigure)
 
 ### Add your teams/players
 
-Choose two or more teams or players that have a big game soon.
+Choose two or more teams or players that have a big match soon.
 
 --- task ---
   
