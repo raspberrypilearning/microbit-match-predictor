@@ -41,7 +41,7 @@ input.onButtonPressed(Button.A, function () {
 
 --- task ---
 
-- From the `Arrays`{:class="microbitarrays"} menu, drag the `get random value from [list]`{:class="microbitarrays"} block into the code editor. 
+- From the `Arrays`{:class="microbitarrays"} menu, drag the `get random value from [list]`{:class="microbitarrays"} block into the `show string`{:class="microbitbasic"} block. 
 
 - Change `list`{:class="microbitvariables"} to `text list`{:class="microbitvariables"}.
 
