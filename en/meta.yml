@@ -3,7 +3,7 @@ hero_image: images/banner.png
 description: Predict the winner of the big match using your micro:bit!
 version: 4
 listed: false
-copyedit: false
+copyedit: true
 last_tested: "2024-07-03"
 steps:
   - title: What you will make
